@@ -4,15 +4,13 @@
 
 **SQL • Python • Power BI • Excel • Django**
 
-*Turning operational data into actionable business insights.*
-
-I build end-to-end analytics solutions that transform operational data into actionable business insights. My work includes data cleaning, SQL database design and analysis, Python automation, interactive dashboards, business reporting, and Django web application development.
+I build end-to-end analytics solutions that help organisations make better decisions using data. My work includes data cleaning, SQL database design and analysis, Python automation, interactive dashboards, business reporting, and Django web application development.
 
 My portfolio showcases a complete analytics workflow using a real construction operations dataset, demonstrating analytical and reporting skills that are transferable across construction, manufacturing, logistics, healthcare, finance, and other operations-driven industries.
 
 ---
 
-## 🚀 Featured Project: Construction Operations Analytics and Reporting System
+## 🚀 Featured Project: Construction Operations Analytics Platform
 
 A complete end-to-end analytics project developed using data from a real road drainage construction project.
 
@@ -25,7 +23,7 @@ Raw Site Records → Excel Data Preparation → SQL Validation and Business Anal
 - ✅ Analysed **347 operational records** from a real road drainage construction project
 - ✅ Designed an Excel reporting system with **KPIs and operational summaries**
 - ✅ Developed **SQL scripts** for data validation, cleaning, and business analysis
-- ✅ Automated data preparation and reporting using **Python**
+- ✅ Automated data cleaning, analysis, and reporting using **Python**
 - ✅ Built interactive **Power BI dashboards** for operational monitoring
 - ✅ Developed and deployed a **Django web application** on PythonAnywhere
 - ✅ Documented the complete analytics workflow on **GitHub**
