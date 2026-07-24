@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rotimi Sheriff Omosewo
+# 👋 Hi, I'm Rotimi Omosewo
 
 ### Data Analyst specializing in Operations Analytics
 
