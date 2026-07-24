@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rotimi Omosewo
 
-### Data Analyst specializing in Operations Analytics
+### Site Operations Supervisor & Data Analyst
 
 **SQL • Python • Power BI • Excel • Django**
 
@@ -92,6 +92,6 @@ I am particularly well-suited to structured, data-driven, and documentation-focu
 | | |
 | :--- | :--- |
 | 📧 **Email** | [omoseworotimi@gmail.com](mailto:omoseworotimi@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/rotimi-sheriff-omosewo-939a806b](https://linkedin.com/in/rotimi-sheriff-omosewo) |
+| 💼 **LinkedIn** | [linkedin.com/in/rotimi-sheriff-omosewo](https://linkedin.com/in/rotimi-sheriff-omosewo) |
 | 🌐 **Portfolio** | [rotimi2020.github.io](https://rotimi2020.github.io) |
 | 🚀 **Live Dashboard** | [rotimi5050.pythonanywhere.com](https://rotimi5050.pythonanywhere.com) |
