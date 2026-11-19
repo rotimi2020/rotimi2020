@@ -1,97 +1,113 @@
 # 👋 Hi, I'm Rotimi Omosewo
 
-### Site Operations Supervisor & Data Analyst
+### Data & BI Analyst | Reporting & Operations Analytics
 
-**SQL • Python • Power BI • Excel • Django**
+**SQL · Python · Power BI · Excel · Django · KNIME**
 
-I build end-to-end analytics solutions — from raw data to deployed analytics applications — that help organisations make faster, better-informed decisions. My work spans data cleaning, SQL database design and analysis, Python automation, interactive dashboards, business reporting, and Django web application development.
+I work with data to understand what is happening in a business, identify patterns, track performance, and make information easier to use. My experience combines data analysis and reporting with hands-on operations, where accurate records, costs, resources, and progress tracking matter.
 
-My portfolio spans **three real-world datasets across construction, healthcare, and retail**, demonstrating data analytics and reporting skills that are transferable across construction, manufacturing, logistics, healthcare, finance, retail, and other operations-driven industries.
+I work with SQL, Python, Excel, Power BI, and other tools to clean and analyse data, build dashboards, automate parts of the reporting process, and develop interactive applications.
 
----
-
-## 🚀 Featured Project: Construction Operations Analytics
-
-A complete end-to-end analytics project developed using data from a real road drainage construction project.
-
-### Project Workflow
-
-```text
-Raw Site Records → Excel Prep → SQL Validation & Analysis → Python Automation → Power BI Dashboard → Django Web App → PythonAnywhere Deployment
-```
-
-### Project Highlights
-
-- ✅ Analysed **348 operational records** from a real construction project
-- ✅ Designed an Excel reporting system with **KPIs and operational summaries**
-- ✅ Developed **SQL scripts** for data validation, cleaning, and business analysis
-- ✅ Automated data cleaning, analysis, and reporting using **Python**
-- ✅ Built interactive **Power BI dashboards** for operational monitoring
-- ✅ Developed and deployed a **Django web application** on PythonAnywhere
-- ✅ Documented the complete analytics workflow on **GitHub**
-
-> **At a glance:** 3 end-to-end analytics projects • Excel → SQL → Python → Power BI → Deployed Applications • Live Django, Streamlit, and dashboard demos linked below
+My projects cover supply chain, construction operations, retail, and healthcare. I enjoy working with real datasets and building practical solutions that go beyond charts and tables.
 
 ---
 
-## 🛠️ Portfolio Repositories
+## 📊 Featured Project — DataCo Supply Chain Analytics
 
-### 🏗️ Construction Operations Dashboard (Django)
-Interactive Django web application for monitoring construction operations through dashboards, tables, and operational reports.
-- 🔗 **Live Demo:** [rotimi5050.pythonanywhere.com](https://rotimi5050.pythonanywhere.com)
-- 📁 **Repository:** [github.com/rotimi2020/construction-dashboard](https://github.com/rotimi2020/construction-dashboard)
+An end-to-end analytics project built around **180,519 records** of supply chain data, exploring order performance, logistics, shipping, delivery risks, and forecasting.
 
-### 📊 Construction Operations Analytics
-End-to-end construction operations analytics project covering Excel, SQL Server, Python, and Power BI.
-- 📁 **Repository:** [github.com/rotimi2020/construction-data-analytics](https://github.com/rotimi2020/construction-data-analytics)
+- Analysed supply chain and order data using Python and SQL.
+- Explored logistics performance, order trends, and delivery risks.
+- Built dashboards covering Executive Overview, Logistics, Supply Chain, Delivery Risk, and Order Forecasting.
+- Developed a Django analytics application and deployed it online.
 
-### 🩺 Diabetes Risk Analysis & Prediction (NHANES)
-End-to-end health analytics project using NHANES data — Python modeling, Power BI dashboard, and a live Streamlit prediction app.
-- 🔗 **Live App:** [nhanes-diabetes.streamlit.app](https://nhanes-diabetes.streamlit.app)
-- 📁 **Repository:** [github.com/rotimi2020/nhanes-diabetes-analysis-prediction](https://github.com/rotimi2020/nhanes-diabetes-analysis-prediction)
+**Links:**
+- 🌐 [Live Dashboard](https://rotimi0000.pythonanywhere.com/)
+- 📁 [Analysis Repository](https://github.com/rotimi2020/dataco-supply-chain-analytics)
+- 💻 [Django Dashboard Source](https://github.com/rotimi2020/Dataco-Django-Dashboard)
+
+---
+
+## 📁 Other Projects
+
+### 🏗️ Construction Operations Analytics
+Analysis of records from a real road drainage construction project, covering resource usage, costs, work progress, and operational reporting.
+
+- Worked with 348 operational records.
+- Built reporting and KPI summaries in Excel.
+- Used SQL for data validation and analysis.
+- Applied Python for data preparation and automation.
+- Developed Power BI dashboards and a Django reporting application.
+
+🔗 [Analytics Repository](https://github.com/rotimi2020/construction-data-analytics)  
+🔗 [Construction Dashboard](https://rotimi5050.pythonanywhere.com/)  
+🔗 [Dashboard Repository](https://github.com/rotimi2020/construction-dashboard)
+
+### 🩺 NHANES Diabetes Analysis
+Healthcare data analysis and prediction project using NHANES data to explore diabetes-related factors, data preparation, and predictive modelling.
+
+- Python and data analysis
+- Machine learning with Scikit-learn
+- Streamlit application
+
+🔗 [Live App](https://nhanes-diabetes.streamlit.app/)  
+📁 [GitHub Repository](https://github.com/rotimi2020/nhanes-diabetes-analysis-prediction)
 
 ### 🛒 Rossmann Store Sales Analysis
-Retail sales analytics project covering store performance benchmarking, promotional impact, seasonal trends, and time-series sales forecasting.
-- 📁 **Repository:** [github.com/rotimi2020/rossmann-store-sales](https://github.com/rotimi2020/rossmann-store-sales)
+Retail analysis and forecasting using historical store sales data to examine sales patterns, store performance, promotions, and trends.
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing analytics projects, technical skills, and professional experience.
-- 🔗 **Live Site:** [rotimi2020.github.io](https://rotimi2020.github.io)
+📁 [GitHub Repository](https://github.com/rotimi2020/rossmann-store-sales)
 
----
+### 🛍️ Superstore Analytics Application
+An interactive web application for exploring retail data, analysing performance, and visualising sales information.
 
-## 💼 Skills
+- Python
+- Django
+- Plotly
 
-| Category | Tools |
-| :--- | :--- |
-| 📊 **Data Analytics** | Excel, SQL Server, Python, Pandas, NumPy |
-| 📈 **Business Intelligence** | Power BI, DAX, KPI Development, Dashboard Design, Data Visualization |
-| 🌐 **Web Development** | Django, Streamlit, HTML, CSS, Chart.js |
-| 🔧 **Version Control** | Git, GitHub |
+🔗 [Live Application](https://rotimi.pythonanywhere.com/)
 
 ---
 
-## 🎯 Core Competencies
+## 🛠️ Tools & Technologies
 
-Operations Analytics • Data Cleaning & Transformation • Business Intelligence • KPI Development • Cost Analysis • Dashboard Development • ETL Processes • Data Visualization • Operational Reporting
+| Area | Tools |
+|---|---|
+| Data Analysis | Python, Pandas, NumPy, SQL |
+| BI & Reporting | Power BI, DAX, Excel, Power Query |
+| Data Visualization | Matplotlib, Seaborn, Plotly |
+| Machine Learning | Scikit-learn |
+| Analytics Applications | Django, Streamlit |
+| Other Tools | KNIME, Git, GitHub |
+
+## 💼 Areas I Work With
+
+- Data cleaning and preparation
+- SQL querying and analysis
+- Reporting and dashboard development
+- KPI tracking and performance analysis
+- Operations and supply chain analytics
+- Logistics and inventory data
+- Cost and resource analysis
+- Data visualization
+- Data quality and validation
+- Python-based automation
 
 ---
 
 ## 🤝 Open to Opportunities
 
-I am open to **Operations Analyst**, **Data Analyst**, **Reporting Analyst**, and **Construction Data Analyst** roles where I can apply analytics, automation, and business intelligence to improve operational performance and support data-driven decision-making.
+I'm interested in Data Analyst, BI Analyst, Reporting Analyst, Operations Analyst, Supply Chain Analyst, and related roles where I can work with data, reporting, and business processes.
 
-I am particularly well-suited to structured, data-driven, and documentation-focused environments — including remote and distributed teams where **dashboards, written analysis, and clear reporting** are essential to collaboration.
+I'm open to remote opportunities, international teams, and roles where clear documentation, written communication, analysis, and dashboards play an important part in the work.
 
-**Remote | Full-time | Contract**
+**Remote · Full-time · Contract**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-| | |
-| :--- | :--- |
-| 📧 **Email** | [omoseworotimi@gmail.com](mailto:omoseworotimi@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/rotimi-sheriff-omosewo](https://linkedin.com/in/rotimi-sheriff-omosewo) |
-| 🌐 **Portfolio** | [rotimi2020.github.io](https://rotimi2020.github.io) |
-| 🚀 **Live Dashboard** | [rotimi5050.pythonanywhere.com](https://rotimi5050.pythonanywhere.com) |
+- 📧 Email: [omoseworotimi@gmail.com](mailto:omoseworotimi@gmail.com)
+- 💼 LinkedIn: [Rotimi Sheriff Omosewo](https://linkedin.com/in/rotimi-sheriff-omosewo)
+- 🌐 Portfolio: [rotimi2020.github.io](https://rotimi2020.github.io)
+- 🐙 GitHub: [rotimi2020](https://github.com/rotimi2020)
